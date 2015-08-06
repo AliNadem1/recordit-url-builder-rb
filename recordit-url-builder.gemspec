@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.description = 'A simple library to generate and sign URLs for the recordit API'
   s.authors = ['Ben Beltran']
   s.email = 'ben@nsovocal.com'
-  s.homepage = 'https://github.com/benbeltran/recordit-url-builder-rb'
+  s.homepage = 'https://github.com/rbdr/recordit-url-builder-rb'
   s.licenses = ['MIT']
 
   s.files = ['./lib/recordit/url_builder.rb']
